@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GroceryApp</string>
+
+    <string name="fruits">Fresh Fruits</string>
+    <string name="vegetables">Vegetable</string>
+    <string name="bread_bakery">Bread and Biscuits</string>
+    <string name="snacks">Snacks</string>
+    <string name="spices">Spices</string>
+    <string name="beverages">Beverages</string>
+
+</resources>
