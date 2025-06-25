@@ -1,4 +1,5 @@
 Flash Grocery App
+
 •	Developed a user-friendly grocery shopping app using Kotlin and Jetpack Compose for easy grocery browsing. 
 •	Implemented a product browsing feature that categorizes items like fruits, vegetables, and dairy, simplifying the search process for users. 
 •	Enabled a shopping cart feature for users to easily add, edit, and remove items. 
